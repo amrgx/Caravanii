@@ -18,7 +18,7 @@ export const NavBar = () => {
   return (
     <div className='flex justify-between items-center h-20 '>
       <div>
-        <h1 className={logo?'hidden':''} >BEACHES.</h1>
+        <h1 className={logo?'hidden':''} >AMR TAREk.</h1>
       </div>
       <ul className='hidden md:flex'>
         <li>Home</li>
@@ -48,7 +48,7 @@ export const NavBar = () => {
 
       <div  className={nav ? 'absolute left-0 top-0 w-full bg-gray-100/90 px-4 py-7 flex flex-col':' absolute left-[-100%]'}>
         <ul>
-          <h1 className='amr'>BEACHES.</h1>
+          <h1 className='amr'>AMR TAREk.</h1>
           <li className='border-b'>Home</li>
           <li className='border-b'>Destinations</li>
           <li className='border-b'>Travel</li>
