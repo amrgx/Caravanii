@@ -21,19 +21,19 @@ body{
   @apply font-[Poppins]
 }
 
-li{
+li {
   @apply p-4 
 }
 
-h1{
-  @apply text-3xl md:text-4xl  font-bold
+h1 {
+  @apply text-3xl md:text-4xl font-bold
 }
 
-h2{
-  @apply text-3xl  font-bold
+h2 {
+  @apply text-3xl font-bold
 }
 
-h2{
+h3{
   @apply text-xl  font-bold
 }
 

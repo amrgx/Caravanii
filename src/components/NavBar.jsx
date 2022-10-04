@@ -18,7 +18,7 @@ export const NavBar = () => {
   return (
     <div className='flex w-full justify-between items-center h-20  px-4 absolute z-10 text-white'>
       <div>
-        <h1 className={logo?'hidden':'block'} >BEACHES.</h1>
+        <h1  className={logo?'hidden':'block'} >BEACHES.</h1>
       </div>
       <ul className='hidden md:flex'>
         <li>Home</li>

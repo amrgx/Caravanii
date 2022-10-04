@@ -9,11 +9,11 @@ const Hero = () => {
     <div className='absolute w-full h-full top-0 left-0 bg-gray-900/20'></div>
     <div className=' absolute top-0 w-full h-full flex flex-col justify-center text-center text-white p-4'> 
         <h1>First Class Travel</h1>
-        <h1 className='py-4'>Top 1% Locations Worldwide</h1>
-        <form className=' flex justify-between items-center max-w-{700} mx-auto w-full border p-1 first-letterfirst-line
+        <h2 className='py-4'>Top 1% Locations Worldwide</h2>
+        <form className=' flex justify-between items-center max-w-[700px] mx-auto w-full border p-1 first-letterfirst-line
             rounded-md text-black bg-gray-100/90'>
           <div>
-          <input type="text" placeholder='Search Destinations'  className=' bg-transparent w-{300px} sm:w-{400px} font-{Poppins} focus:outline-none '/>
+          <input type="text" placeholder='Search Destinations'  className=' bg-transparent w-[300px] sm:w-[400px] font-[Poppins] focus:outline-none '/>
           </div>
           <div>
             <button><AiOutlineSearch size={20} className="icon" style={{color:"#ffffffff"}}/></button>
