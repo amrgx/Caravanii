@@ -1,6 +1,6 @@
 import React from 'react'
 
-import BoraBora from '../assets/borabora.jpg';
+import BoraBora from '../assets/images.jpeg';
 import BoraBora2 from '../assets/borabora2.jpg';
 import Maldives from '../assets/maldives.jpg';
 import Maldives2 from '../assets/maldives2.jpg';
